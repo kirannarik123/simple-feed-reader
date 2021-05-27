@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'rssfeeder01'
         slot-name: 'staging'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8c8179dd88404c7086ed63ec72a2825f }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c464334aa5194153a50688e185744b42 }}
         package: .
